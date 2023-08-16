@@ -123,6 +123,7 @@ void loop() {
 https://github.com/Rawnaa-19/IOT-Esp32/assets/106926557/0c81c2c2-42a3-42cc-96fb-86f2ec639479
 
 
+
 ## References
  [^1]: arduino-projekte.info. (2023, August 2). Node MCU ESP32 38Pin USB Type-C. https://arduino-projekte.info/produkt/node-mcu-esp32-38pin-usb-type-c/
  [^2]: Overview of ESP32 features. What do they practically mean? (n.d.). Tutorials. https://www.exploreembedded.com/wiki/Overview_of_ESP32_features._What_do_they_practically_mean%3F
